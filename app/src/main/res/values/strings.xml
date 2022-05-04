@@ -1,0 +1,333 @@
+<resources>
+    <string name="app_name">ZooZooApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Shendy Krisyohanda</string>
+    <string name="nav_header_subtitle">NIM : 2010817310006</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="setting">Change Languages</string>
+
+    <string name="home_title">Home</string>
+    <string name="animals_title">Info Animal</string>
+    <string name="african_title">African Animals</string>
+    <string name="asian_title">Asian Animals</string>
+    <string name="european_title">European Animals</string>
+    <string name="north_american_title">North American Animals</string>
+
+    <string name="hello_home_fragment">Welcome to ZooZooApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- African Animals -->
+
+    <!-- Animals Name   -->
+    <string name="aardvark_name">Aardvark</string>
+    <string name="addax_name">Addax</string>
+    <string name="african_civet_name">African Civet</string>
+    <string name="hippopotamus_name">Hippopotamus</string>
+    <string name="xerus_name">Xerus</string>
+
+    <!-- Animals Diet   -->
+    <string name="aardvark_diet">Omnivore</string>
+    <string name="addax_diet">Herbivore</string>
+    <string name="african_civet_diet">Omnivore</string>
+    <string name="hippopotamus_diet">Herbivore</string>
+    <string name="xerus_diet">Omnivore</string>
+
+    <!-- Animals Lifespan   -->
+    <string name="aardvark_lifespan">23 years</string>
+    <string name="addax_lifespan">19-25 years</string>
+    <string name="african_civet_lifespan">15-20 years</string>
+    <string name="hippopotamus_lifespan">40-50 years</string>
+    <string name="xerus_lifespan">11.5 years</string>
+
+    <!-- Animals weight  -->
+    <string name="aardvark_weight">60kg-80kg</string>
+    <string name="addax_weight">Unknown</string>
+    <string name="african_civet_weight">1.4kg-4.5kg</string>
+    <string name="hippopotamus_weight">1tonne-4.5tonnes</string>
+    <string name="xerus_weight">Unknown</string>
+
+    <!-- Animals length   -->
+    <string name="aardvark_length">3.4ft-7.3ft</string>
+    <string name="addax_length">47 to 51 inches</string>
+    <string name="african_civet_length">17in-28in</string>
+    <string name="hippopotamus_length">6.5ft-16.5ft</string>
+    <string name="xerus_length">17in-18in</string>
+
+    <!-- Asian Animals -->
+
+    <!-- Animals Name   -->
+    <string name="ape_name">Ape</string>
+    <string name="dwarf_hamster_name">Dwarf Hamster</string>
+    <string name="fire_eel_name">Fire Eel</string>
+    <string name="japanese_macaque_name">Japanese Macaque</string>
+    <string name="siberian_tiger_name">Siberian Tiger</string>
+
+    <!-- Animals Diet   -->
+    <string name="ape_diet">Herbivore</string>
+    <string name="dwarf_hamster_diet">Omnivore</string>
+    <string name="fire_eel_diet">Omnivore</string>
+    <string name="japanese_macaque_diet">Omnivore</string>
+    <string name="siberian_tiger_diet">Carnivore</string>
+
+    <!-- Animals Lifespan   -->
+    <string name="ape_lifespan">50 years</string>
+    <string name="dwarf_hamster_lifespan">2-3 years</string>
+    <string name="fire_eel_lifespan">10-20 years</string>
+    <string name="japanese_macaque_lifespan">25-32 years</string>
+    <string name="siberian_tiger_lifespan">18-25 years</string>
+
+    <!-- Animals weight  -->
+    <string name="ape_weight">Varies</string>
+    <string name="dwarf_hamster_weight">0.71 – 0.88 ounces</string>
+    <string name="fire_eel_weight">Unknown</string>
+    <string name="japanese_macaque_weight">5kg - 14kg</string>
+    <string name="siberian_tiger_weight">100kg - 350kg</string>
+
+    <!-- Animals length   -->
+    <string name="ape_length">Varies</string>
+    <string name="dwarf_hamster_length">5.5 – 10.5 cm</string>
+    <string name="fire_eel_length">20 - 40 inches</string>
+    <string name="japanese_macaque_length">80cm - 95cm</string>
+    <string name="siberian_tiger_length">Unknown</string>
+
+    <!-- European Animals -->
+
+    <!-- Animals Name   -->
+    <string name="barn_owl_name">Barn Owl</string>
+    <string name="chamois_name">Chamois</string>
+    <string name="grouse_name">Grouse Bird</string>
+    <string name="stag_beetle_name">Stag Beetle</string>
+    <string name="woodlouse_spider_name">Woodlouse Spider</string>
+
+    <!-- Animals Diet   -->
+    <string name="barn_owl_diet">Carnivore</string>
+    <string name="chamois_diet">Herbivore</string>
+    <string name="grouse_diet">Omnivore</string>
+    <string name="stag_beetle_diet">Herbivore</string>
+    <string name="woodlouse_spider_diet">Carnivore</string>
+
+    <!-- Animals Lifespan   -->
+    <string name="barn_owl_lifespan">5 - 10 years</string>
+    <string name="chamois_lifespan">18 - 22 years</string>
+    <string name="grouse_lifespan">1 - 10 years</string>
+    <string name="stag_beetle_lifespan">3-7 years</string>
+    <string name="woodlouse_spider_lifespan">Unknown</string>
+
+    <!-- Animals weight  -->
+    <string name="barn_owl_weight">300g - 550g</string>
+    <string name="chamois_weight">50kg - 55kg</string>
+    <string name="grouse_weight">0.3kg - 6.5kg</string>
+    <string name="stag_beetle_weight">Up to 0.5 grams</string>
+    <string name="woodlouse_spider_weight">Unknown</string>
+
+    <!-- Animals length   -->
+    <string name="barn_owl_length">25cm - 45cm</string>
+    <string name="chamois_length">75cm - 80cm</string>
+    <string name="grouse_length">31cm - 95cm</string>
+    <string name="stag_beetle_length">1cm – 12.3cm</string>
+    <string name="woodlouse_spider_length">0.3inchi-0.5inchi</string>
+
+    <!-- North American Animals -->
+
+    <!-- Animals Name   -->
+    <string name="alaskan_husky_name">Alaskan Husky</string>
+    <string name="bald_eagle_name">Bald Eagle</string>
+    <string name="deer_tick_name">Deer Tick</string>
+    <string name="hawaiian_monk_seal_name">Hawaiian Monk Seal</string>
+    <string name="pileated_woodpecker_name">Pileated Woodpecker</string>
+
+    <!-- Animals Diet   -->
+    <string name="alaskan_husky_diet">Omnivore</string>
+    <string name="bald_eagle_diet">Carnivore</string>
+    <string name="deer_tick_diet">Omnivore</string>
+    <string name="hawaiian_monk_seal_diet">Carnivore</string>
+    <string name="pileated_woodpecker_diet">Omnivore</string>
+
+    <!-- Animals Lifespan   -->
+    <string name="alaskan_husky_lifespan">10 – 12 years</string>
+    <string name="bald_eagle_lifespan">15-20 years</string>
+    <string name="deer_tick_lifespan">2 years</string>
+    <string name="hawaiian_monk_seal_lifespan">30 years</string>
+    <string name="pileated_woodpecker_lifespan">12 years</string>
+
+    <!-- Animals weight  -->
+    <string name="alaskan_husky_weight">65 lbs</string>
+    <string name="bald_eagle_weight">6.6-14lbs</string>
+    <string name="deer_tick_weight">Unknown</string>
+    <string name="hawaiian_monk_seal_weight">Unknown</string>
+    <string name="pileated_woodpecker_weight">8.8 to 12.3 ounces</string>
+
+    <!-- Animals length   -->
+    <string name="alaskan_husky_length">Unknown</string>
+    <string name="bald_eagle_length">28-38 inches</string>
+    <string name="deer_tick_length">2-6 mm</string>
+    <string name="hawaiian_monk_seal_length">7-8 feet</string>
+    <string name="pileated_woodpecker_length">16 to 19 inches</string>
+
+    <string name="detail_animals_name">detail\'s name</string>
+    <string name="detail_scientific_name_label">Scientific Name :</string>
+    <string name="detail_diet_label">Diet :</string>
+    <string name="detail_lifespan_label">Lifespan :</string>
+    <string name="detail_weight_label">Weight :</string>
+    <string name="detail_lenght_label">Lenght :</string>
+    <string name="detail_more_label">Tap the image to know more!</string>
+
+    <string name="info1">
+        Aardvarks are small pig-like mammals that are found inhabiting a wide range of different habitats
+        throughout Africa, south of the Sahara. They are mostly solitary and spend their days sleeping in
+        underground burrows to protect them from the heat of the African sun, emerging in the cooler evening
+        to search for food. Their name originates from the Afrikaans language in South Africa and means Earth Pig,
+        due to their long snout and pig-like body. Aardvarks are unique among animals as they are the only
+        surviving species in their animal family. Until recently it was widely believed that they were most
+        closely related to other insectivores such as armadillos and pangolins but this is not the case with
+        their closest living relatives actually thought to be elephants.
+    </string>
+    <string name="info2">
+        This beautiful antelope, also called the screwhorn or white antelope once ranged over the Sahara Desert.
+        Now it is on the edge of extinction due to poaching, climate change, overhunting, and habitat destruction.
+        Fortunately, efforts are being made to return its wild population to healthy numbers.
+    </string>
+    <string name="info3">
+        The African Civet is a large species of Civet found across sub-Saharan Africa. The African Civet is the
+        only remaining member in its genetic group and is considered to be the largest Civet-like animal on the
+        African continent. Despite their cat-like appearance and behaviours, the African Civets are not felines
+        at all but are in fact, more closely related to other small carnivores including Weasels and Mongooses.
+        The African Civet is most well known for the musk that it secretes to mark its territory (called Civetone),
+        which has been used in the manufacturing of perfumes for centuries, and its striking black and white markings,
+        make the African Civet one of the easiest Civet species to identify.
+    </string>
+    <string name="info4">
+        The Hippopotamus is a large semi-aquatic mammal that is found wallowing in the rivers and lakes across sub-Saharan
+        Africa. Despite its appearance, the Hippopotamus is an animal that is actually thought to be most closely related
+        to Whales as the two are thought to have had a common ancestor that existed roughly 54 million years ago.
+        Also known as the Common Hippopotamus, it is one of two Hippo species that are found on the African continent
+        with the other being the solitary and forest-dwelling Pygmy Hippopotamus which is only found in western Africa
+        and is now Critically Endangered. Although the Common Hippopotamus remains an abundant and widespread animal
+        throughout its current range, numbers are reportedly declining due to both hunting and habitat loss.
+    </string>
+    <string name="info5">
+        Xerus erythropus which is commonly known as African ground squirrel and is native to Africa.
+        They have coarse and short hair and are known to be social animals. They can survive in captivity for about 11.5 years.
+        The males and females live in their separate groups and come together to mate after which the babies live with their mothers in the group of females.
+        The Xerus has four subspecies – cape ground squirrel, striped ground squirrel, mountain ground squirrel, and unstriped ground squirrel.
+        These animals are diurnal and are usually known to be herbivores in nature and usually eat nuts, roots, and seeds. However,
+        sometimes they also eat eggs and other small animals.
+    </string>
+    <string name="info6">
+        Apes are part of the superfamily of primates, the Hominoidea. The Hominoidea encompasses a variety of species called
+        “lesser apes” and “great apes.” These include the gorilla, orangutan, chimpanzee, bonobo and humans(!).
+        There are other primates whose common name may include “ape,” but those species are not primates.
+        Most primates are skilled climbers, especially when it comes to trees. They are omnivorous with a primary diet of
+        vegetation. Foods include grass seeds, fruit, the rare partaking of meat or invertebrates. Scavenged or hunted,
+        they consume pretty much anything available that’s easily ingested.
+        Primates are native to Asia and Africa. Humans and species of great apes have startling similarities.
+        Yet, at the same time, the gap in differences is huge when you compare the psychological, cultural, emotional, and spiritual aspects of each species.
+        Every species has its own language, symbols, communication techniques and unique governance systems. But there’s no denying that human versions are
+        far more complex. Technologies, scientific advancement, self-awareness and even religion put humans in a category outside of standard primates.
+    </string>
+    <string name="info7">
+        A dwarf hamster is a group of several subspecies, specifically dealing with hamsters that are smaller than four inches long.
+        They often have a lifespan of two to three years, though some live less than this. They are incredibly smart, and some subspecies
+        hibernate through the winter months underground. If you want to take a little extra time with this furry pet, you may even learn
+        how to train them to do different tricks.
+    </string>
+    <string name="info8">
+        Called an eel for its long thin appearance, a Fire Eel actually isn’t a true eel at all.
+        In fact, it is one of a species of elongated freshwater fish with pointy snouts known as spiny eels.
+        These fish are popular aquarium pets because of their unusual color and size. These nocturnal,
+        bottom-dwelling fish have long lives, both in the wild and as pets. Their price varies wildly depending on their size,
+        from small to jumbo, so they can cost as little as $20 or have a price tag as high as a few hundred dollars.
+        Though they rarely bite, they can be a bit dangerous due to their spines and toxins, and the way they thrash around when captured.
+    </string>
+    <string name="info9">
+        The Japanese Macaque is a medium sized Monkey found in a variety of different habitats throughout Japan.
+        The Japanese Macaque is also known as the Snow Monkey as they are often found living in colder regions of
+        the country where heavy snowfall is common during the winter. They are the world’s most northern living
+        Monkey species and have adapted incredibly to their surroundings and changing seasons. There are two different
+        subspecies of Japanese Macaque, one which is found across northern and mainland Japan, and the other is restricted
+        to one of the country’s southern islands. The two differ very slightly in size and appearance.
+    </string>
+    <string name="info10">
+        The Siberian tiger is one of the fiercest predators in the world.
+        With its immense size and powerful body, the Siberian tiger prowls the dense forests of Eastern
+        Asia in search of prey. Specially adapted for the frigid climate in which it resides,
+        it is a sophisticated predator capable of taking down almost any other animal, no matter its size.
+        But because of the value placed on its luxurious fur and the supposed medicinal properties of its
+        parts, the animal is under constant threat of extinction from human activity.
+        Meticulous conservation efforts and protection from local governments will be required to bolster current population numbers.
+    </string>
+
+    <string name="info11">
+        Barn owls are the most well-known member family of owls known for their stark white faces and haunting calls.
+        They are extremely widespread, one of the most widespread bird species on earth.
+        Barn owls keep the rodent population in check wherever they live by preying on rats and mice primarily.
+        In many cultures, they are seen as harbingers of death or symbolize the afterlife.
+    </string>
+    <string name="info12">
+        The chamois is a small, hoofed animal that is a goat antelope species.
+        It is native to Asia Minor and the Eastern, Central, and Western European
+        mountains at moderately high altitudes, and it was introduced to New Zealand.
+        The pronunciation of its name resembles that of the French, while the pronunciation
+        for its name as leather is based on “chamy” or “shammy”. Some subspecies of this bovid
+        are having protection under the EU’s European Habitat Directive.
+    </string>
+    <string name="info13">
+        Grouse are medium sized, stocky birds that live in the Northern Hemisphere.
+        Their feathers closely resemble their habitat. This plumage provides them with camouflage and helps them survive.
+        Grouse are birds that are closely related to chickens, turkeys and pheasants. About eight million of these upland
+        game birds are hunted each year for food or sport in their grassy and forested habitat.
+    </string>
+    <string name="info14">
+        The stag beetle is a family of large, hard-shelled, flying insects whose distinguishing trait is
+        the ability to consume rotting wood as a larva. The name of this insect is derived from the giant
+        mandibles on the male, which resemble the stags of a deer in the way they curve and branch.
+        Their numbers appear to be declining in some parts of their range due to the loss of habitats and food sources.
+    </string>
+    <string name="info15">
+        The Woodlouse spider is found throughout the world.
+        They live in Australia, Asia, Europe, North America, South America, and Africa.
+        This spider is named for the woodlice it hunts in its habitat.
+        These spiders don’t make a web. Instead, they capture prey with their fangs, then deliver a dose of venom.
+        The lifespan of this spider is two to five years.
+    </string>
+    <string name="info16">
+        The Alaskan Husky is an athletic working dog that arose from a cross between several similar yet distinctive breeds.
+        Genetically, it’s a close relative of the Alaskan Malamute and the Siberian Husky. It was later crossed with a few
+        European breeds, including German pointers and the Saluki. Some of these animals even have some recent wolf heritage.
+        Capable of enduring harsh climates of the frigid north, the Alaskan Huskies are excellent sled dogs and companions that
+        belong to the spitz group. The spitz dogs are characterized by thick white fur, pointed ears, long muzzles, and curled
+        tails. However, because there isn’t a set breed standard, the Alaskan Husky can come in many different physical permutations
+        and characteristics. They’re bred for speed and endurance, not for looks. As a result, they need to have an efficient gait,
+        a warm double coat, and webbed feet that act as snowshoes. It’s also covered with some mixture of white, black, gray, brown, and even red fur.
+    </string>
+    <string name="info17">
+        An endearing symbol of strength and power, the bald eagle is one of the most popular animals in all of North America.
+        It soars majestically in the air, enthralling bird watchers and enthusiasts alike. While it was once on the brink of extinction,
+        today it has recovered sufficiently to represent an astonishing conservation success story.
+    </string>
+    <string name="info18">
+        Out of all the ticks native to North America, the deer tick is one of the most problematic.
+        Ticks have been around for a very long time, over 100 million years. Today, there are more than 900 distinct species of ticks living
+        on every continent (even Antarctica). Around 700 species are ‘hard-bodied’ ticks of the Ixodidae family.
+        The deer tick is one of these hard-bodied species.
+        Deer ticks are capable of ingesting so much blood that they engorge up to six times their normal size.
+        When they latch onto a victim, they actually secrete an anesthetizing substance that deadens any pain inflicted by the bite.
+        Like vampires, ticks live solely on blood. But, unlike Dracula—they don’t kill their victims, though they may impart blood-borne diseases to them.
+    </string>
+    <string name="info19">
+        The Hawaiian monk seal, called Ilioholoikauaua by island natives, lives mostly around the Northwestern Hawaiian Islands.
+        It is the official state mammal of Hawaii and only one of two mammals native to this U.S. state. Like other seals,
+        they are meat eaters that hunt in ocean waters. They sleep on beaches where they also enjoy basking in the sun. As of 2016,
+        there are only about 1400 of these native seals remaining.
+    </string>
+    <string name="info20">
+        The largest of the North American common woodpeckers, pileated woodpeckers are birds that are easy to recognize thanks
+        to the distinctive red crests atop their heads. Found primarily across southern Canada, the eastern United States,
+        the northern Rockies, and parts of the Pacific Coast, pileated woodpeckers are monogamous, non-migratory birds.
+        They prefer to inhabit old-growth forests with plenty of dead, standing trees, and they are famous for leaving
+        rectangular holes in trees while searching for their favorite food – carpenter ants. These birds are not endangered
+        and have steadily increasing population numbers.
+    </string>
+</resources>

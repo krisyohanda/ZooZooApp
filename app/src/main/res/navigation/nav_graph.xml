@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.zoozooapp.fragment.HomeFragment"
+        android:label="@string/home_title"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_african"
+        android:name="com.example.zoozooapp.fragment.AfricanFragment"
+        android:label="@string/african_title"
+        tools:layout="@layout/fragment_african">
+        <action
+            android:id="@+id/action_africanFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_asian"
+        android:name="com.example.zoozooapp.fragment.AsianFragment"
+        android:label="@string/asian_title"
+        tools:layout="@layout/fragment_asian">
+        <action
+            android:id="@+id/action_asianFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.example.zoozooapp.fragment.DetailFragment"
+        android:label="Detail"
+        tools:layout="@layout/fragment_detail">
+        <argument
+            android:name="commonName"
+            app:argType="string" />
+        <argument
+            android:name="scientificName"
+            app:argType="string" />
+        <argument
+            android:name="diet"
+            app:argType="string" />
+        <argument
+            android:name="lifespan"
+            app:argType="string" />
+        <argument
+            android:name="weight"
+            app:argType="string" />
+        <argument
+            android:name="length"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_european"
+        android:name="com.example.zoozooapp.fragment.EuropeanFragment"
+        android:label="@string/european_title"
+        tools:layout="@layout/fragment_european">
+        <action
+            android:id="@+id/action_europeanFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_northamerica"
+        android:name="com.example.zoozooapp.fragment.NorthAmericanFragment"
+        android:label="@string/north_american_title"
+        tools:layout="@layout/fragment_north_american">
+        <action
+            android:id="@+id/action_northAmericanFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_animals"
+        android:name="com.example.zoozooapp.fragment.AnimalsFragment"
+        android:label="@string/animals_title"
+        tools:layout="@layout/fragment_animals" />
+</navigation>

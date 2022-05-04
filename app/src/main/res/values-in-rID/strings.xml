@@ -1,0 +1,334 @@
+<resources>
+    <string name="app_name">ZooZooApp</string>
+
+    <string name="navigation_drawer_open">Tutup navigation drawer</string>
+    <string name="navigation_drawer_close">Buka navigation drawer</string>
+    <string name="nav_header_title">Shendy Krisyohanda</string>
+    <string name="nav_header_subtitle">NIM : 2010817310006</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="setting">Ubah Bahasa</string>
+
+    <string name="home_title">Beranda</string>
+    <string name="animals_title">Info Hewan</string>
+    <string name="african_title">Hewan Afrika</string>
+    <string name="asian_title">Hewan Asia</string>
+    <string name="european_title">Hewan Eropa</string>
+    <string name="north_american_title">Hewan Amerika Utara</string>
+
+    <string name="hello_home_fragment">Selamat Datang di ZooZooApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- African Animals -->
+
+    <!-- Animals Name   -->
+    <string name="aardvark_name">Tapir</string>
+    <string name="addax_name">Addax</string>
+    <string name="african_civet_name">Luwak Afrika</string>
+    <string name="hippopotamus_name">Kuda Nil</string>
+    <string name="xerus_name">Xerus</string>
+
+    <!-- Animals Diet   -->
+    <string name="aardvark_diet">Omnivora</string>
+    <string name="addax_diet">Herbivora</string>
+    <string name="african_civet_diet">Omnivora</string>
+    <string name="hippopotamus_diet">Herbivora</string>
+    <string name="xerus_diet">Omnivora</string>
+
+    <!-- Animals Lifespan   -->
+    <string name="aardvark_lifespan">23 tahun</string>
+    <string name="addax_lifespan">19-25 tahun</string>
+    <string name="african_civet_lifespan">15-20 tahun</string>
+    <string name="hippopotamus_lifespan">40-50 tahun</string>
+    <string name="xerus_lifespan">11.5 tahun</string>
+
+    <!-- Animals weight  -->
+    <string name="aardvark_weight">60kg-80kg</string>
+    <string name="addax_weight">Tidak Diketahui</string>
+    <string name="african_civet_weight">1.4kg-4.5kg</string>
+    <string name="hippopotamus_weight">1ton-4.5ton</string>
+    <string name="xerus_weight">Tidak Diketahui</string>
+
+    <!-- Animals length   -->
+    <string name="aardvark_length">3.4ft-7.3ft</string>
+    <string name="addax_length">47 to 51 inches</string>
+    <string name="african_civet_length">17in-28in</string>
+    <string name="hippopotamus_length">6.5ft-16.5ft</string>
+    <string name="xerus_length">17in-18in</string>
+
+    <!-- Asian Animals -->
+
+    <!-- Animals Name   -->
+    <string name="ape_name">Kera</string>
+    <string name="dwarf_hamster_name">Hamster Kerdil</string>
+    <string name="fire_eel_name">Belut Api</string>
+    <string name="japanese_macaque_name">Kera Jepang</string>
+    <string name="siberian_tiger_name">Harimau Siberia</string>
+
+    <!-- Animals Diet   -->
+    <string name="ape_diet">Herbivora</string>
+    <string name="dwarf_hamster_diet">Omnivora</string>
+    <string name="fire_eel_diet">Omnivora</string>
+    <string name="japanese_macaque_diet">Omnivora</string>
+    <string name="siberian_tiger_diet">Karnivora</string>
+
+    <!-- Animals Lifespan   -->
+    <string name="ape_lifespan">50 tahun</string>
+    <string name="dwarf_hamster_lifespan">2-3 tahun</string>
+    <string name="fire_eel_lifespan">10-20 tahun</string>
+    <string name="japanese_macaque_lifespan">25-32 tahun</string>
+    <string name="siberian_tiger_lifespan">18-25 tahun</string>
+
+    <!-- Animals weight  -->
+    <string name="ape_weight">Bervariasi</string>
+    <string name="dwarf_hamster_weight">0.71 – 0.88 ons</string>
+    <string name="fire_eel_weight">Tidak Diketahui</string>
+    <string name="japanese_macaque_weight">5kg - 14kg</string>
+    <string name="siberian_tiger_weight">100kg - 350kg</string>
+
+    <!-- Animals length   -->
+    <string name="ape_length">Bervariasi</string>
+    <string name="dwarf_hamster_length">5.5 – 10.5 cm</string>
+    <string name="fire_eel_length">20 - 40 inci</string>
+    <string name="japanese_macaque_length">80cm - 95cm</string>
+    <string name="siberian_tiger_length">Tidak Diketahui</string>
+
+    <!-- European Animals -->
+
+    <!-- Animals Name   -->
+    <string name="barn_owl_name">Burung Hantu Gudang</string>
+    <string name="chamois_name">Kambing Gunung</string>
+    <string name="grouse_name">Burung Grouse</string>
+    <string name="stag_beetle_name">Kumbang Rusa</string>
+    <string name="woodlouse_spider_name">Laba-laba Woodlouse</string>
+
+    <!-- Animals Diet   -->
+    <string name="barn_owl_diet">Carnivora</string>
+    <string name="chamois_diet">Herbivora</string>
+    <string name="grouse_diet">Omnivora</string>
+    <string name="stag_beetle_diet">Herbivora</string>
+    <string name="woodlouse_spider_diet">Carnivora</string>
+
+    <!-- Animals Lifespan   -->
+    <string name="barn_owl_lifespan">5 - 10 tahun</string>
+    <string name="chamois_lifespan">18 - 22 tahun</string>
+    <string name="grouse_lifespan">1 - 10 tahun</string>
+    <string name="stag_beetle_lifespan">3-7 tahun</string>
+    <string name="woodlouse_spider_lifespan">Tidak Diketahui</string>
+
+    <!-- Animals weight  -->
+    <string name="barn_owl_weight">300g - 550g</string>
+    <string name="chamois_weight">50kg - 55kg</string>
+    <string name="grouse_weight">0.3kg - 6.5kg</string>
+    <string name="stag_beetle_weight">Hingga 0.5 gram</string>
+    <string name="woodlouse_spider_weight">Tidak Diketahui</string>
+
+    <!-- Animals length   -->
+    <string name="barn_owl_length">25cm - 45cm</string>
+    <string name="chamois_length">75cm - 80cm</string>
+    <string name="grouse_length">31cm - 95cm</string>
+    <string name="stag_beetle_length">1cm – 12.3cm</string>
+    <string name="woodlouse_spider_length">0.3inci-0.5inci</string>
+
+    <!-- North American Animals -->
+
+    <!-- Animals Name   -->
+    <string name="alaskan_husky_name">Husky Alaska</string>
+    <string name="bald_eagle_name">Elang Botak</string>
+    <string name="deer_tick_name">Kutu Rusa</string>
+    <string name="hawaiian_monk_seal_name">Anjing Laut Hawaiian Monk</string>
+    <string name="pileated_woodpecker_name">Pelatuk Tumpuk</string>
+
+    <!-- Animals Diet   -->
+    <string name="alaskan_husky_diet">Omnivora</string>
+    <string name="bald_eagle_diet">Carnivora</string>
+    <string name="deer_tick_diet">Omnivora</string>
+    <string name="hawaiian_monk_seal_diet">Carnivora</string>
+    <string name="pileated_woodpecker_diet">Omnivora</string>
+
+    <!-- Animals Lifespan   -->
+    <string name="alaskan_husky_lifespan">10 – 12 tahun</string>
+    <string name="bald_eagle_lifespan">15-20 tahun</string>
+    <string name="deer_tick_lifespan">2 tahun</string>
+    <string name="hawaiian_monk_seal_lifespan">30 tahun</string>
+    <string name="pileated_woodpecker_lifespan">12 tahun</string>
+
+    <!-- Animals weight  -->
+    <string name="alaskan_husky_weight">65 lbs</string>
+    <string name="bald_eagle_weight">6.6-14lbs</string>
+    <string name="deer_tick_weight">Tidak Diketahui</string>
+    <string name="hawaiian_monk_seal_weight">Tidak Diketahui</string>
+    <string name="pileated_woodpecker_weight">8.8 sampai 12.3 ons</string>
+
+    <!-- Animals length   -->
+    <string name="alaskan_husky_length">Tidak Diketahui</string>
+    <string name="bald_eagle_length">28-38 inci</string>
+    <string name="deer_tick_length">2-6 mm</string>
+    <string name="hawaiian_monk_seal_length">7-8 feet</string>
+    <string name="pileated_woodpecker_length">16 sampai 19 inci</string>
+
+    <string name="detail_animals_name">detail\'s name</string>
+    <string name="detail_scientific_name_label">Nama Ilmiah :</string>
+    <string name="detail_diet_label">Makanan :</string>
+    <string name="detail_lifespan_label">Masa Hidup :</string>
+    <string name="detail_weight_label">Berat :</string>
+    <string name="detail_lenght_label">Panjang :</string>
+    <string name="detail_more_label">Sentuh gambar untuk info lengkapnya!</string>
+
+    <string name="info1">
+        Aardvark adalah mamalia kecil seperti babi yang ditemukan menghuni berbagai habitat berbeda di seluruh Afrika, selatan Sahara.
+        Mereka kebanyakan menyendiri dan menghabiskan hari-hari mereka tidur di liang bawah tanah untuk melindungi mereka dari
+        panasnya matahari Afrika, muncul di malam yang lebih dingin untuk mencari makanan. Nama mereka berasal dari bahasa Afrikaans
+        di Afrika Selatan dan berarti Babi Tanah, karena moncong panjang dan tubuh seperti babi. Aardvark unik di antara hewan karena
+        mereka adalah satu-satunya spesies yang masih hidup dalam keluarga hewan mereka. Sampai baru-baru ini secara luas diyakini bahwa
+        mereka berkerabat paling dekat dengan insektivora lain seperti armadillo dan trenggiling, tetapi tidak demikian halnya dengan
+        kerabat terdekat mereka yang sebenarnya dianggap gajah.
+    </string>
+    <string name="info2">
+        Antelop yang indah ini, juga disebut kijang obeng atau kijang putih, pernah berkeliaran di atas Gurun Sahara.
+        Sekarang berada di ambang kepunahan karena perburuan, perubahan iklim, perburuan berlebihan, dan perusakan habitat.
+        Untungnya, upaya sedang dilakukan untuk mengembalikan populasi liar ke jumlah yang sehat.
+    </string>
+    <string name="info3">
+        Musang Afrika adalah spesies Luwak besar yang ditemukan di Afrika sub-Sahara. Musang Afrika adalah satu-satunya
+        anggota yang tersisa dalam kelompok genetiknya dan dianggap sebagai hewan mirip Luwak terbesar di benua Afrika.
+        Meskipun penampilan dan perilakunya seperti kucing, Musang Afrika sama sekali bukan kucing tetapi sebenarnya,
+        lebih dekat hubungannya dengan karnivora kecil lainnya termasuk Musang dan Luwak. Luwak Afrika paling terkenal
+        dengan musk yang dikeluarkannya untuk menandai wilayahnya (disebut Civetone), yang telah digunakan dalam pembuatan
+        parfum selama berabad-abad, dan tanda hitam dan putihnya yang mencolok, menjadikan Musang Afrika salah satu yang paling
+        mudah Spesies luwak untuk diidentifikasi.
+    </string>
+    <string name="info4">
+        Hippopotamus adalah mamalia semi-akuatik besar yang ditemukan berkubang di sungai dan danau di Afrika sub-Sahara.
+        Terlepas dari penampilannya, Hippopotamus adalah hewan yang dianggap paling dekat hubungannya dengan Paus karena
+        keduanya dianggap memiliki nenek moyang yang sama yang ada sekitar 54 juta tahun yang lalu. Juga dikenal sebagai
+        Kuda Nil Biasa, ini adalah salah satu dari dua spesies Kuda Nil yang ditemukan di benua Afrika dengan yang lainnya
+        adalah Kuda Nil Pygmy yang hidup soliter dan tinggal di hutan yang hanya ditemukan di Afrika barat dan sekarang
+        Sangat Terancam Punah. Meskipun Kuda Nil Biasa tetap menjadi hewan yang melimpah dan tersebar luas di seluruh
+        jangkauannya saat ini, jumlahnya dilaporkan menurun karena perburuan dan hilangnya habitat.
+    </string>
+    <string name="info5">
+        Xerus erythropus yang umumnya dikenal sebagai tupai tanah Afrika dan berasal dari Afrika.
+        Mereka memiliki rambut kasar dan pendek dan dikenal sebagai hewan sosial. Mereka dapat bertahan hidup di penangkaran selama sekitar 11,5 tahun.
+        Jantan dan betina hidup dalam kelompoknya masing-masing dan berkumpul untuk kawin setelah itu bayi-bayi tersebut tinggal bersama ibu mereka dalam kelompok betina.
+        Xerus memiliki empat subspesies – tupai tanah tanjung, tupai tanah bergaris, tupai tanah gunung, dan tupai tanah tak bergaris.
+        Hewan ini bersifat diurnal dan biasanya dikenal sebagai herbivora di alam dan biasanya memakan kacang-kacangan, akar, dan biji-bijian.
+        Namun, terkadang mereka juga memakan telur dan hewan kecil lainnya.
+    </string>
+    <string name="info6">
+        Kera adalah bagian dari superfamili primata, Hominoidea.
+        Hominoidea mencakup berbagai spesies yang disebut "kera kecil" dan "kera besar".
+        Ini termasuk gorila, orangutan, simpanse, bonobo, dan manusia(!).
+        Ada primata lain yang nama umumnya mungkin termasuk "kera", tetapi spesies itu bukan primata.
+        Kebanyakan primata adalah pemanjat yang terampil, terutama dalam hal pohon. Mereka adalah
+        omnivora dengan makanan utama tumbuh-tumbuhan. Makanannya antara lain biji-bijian, buah-buahan, daging,
+        atau invertebrata yang langka. Dicari atau diburu, mereka mengkonsumsi hampir semua yang tersedia yang mudah dicerna.
+        Primata berasal dari Asia dan Afrika. Manusia dan spesies kera besar memiliki kesamaan yang mengejutkan. Namun,
+        pada saat yang sama, kesenjangan dalam perbedaan sangat besar ketika Anda membandingkan aspek psikologis, budaya, emosional, dan spiritual masing-masing spesies.
+        Setiap spesies memiliki bahasa, simbol, teknik komunikasi, dan sistem tata kelola yang unik.
+        Tetapi tidak dapat disangkal bahwa versi manusia jauh lebih kompleks.
+        Teknologi, kemajuan ilmu pengetahuan, kesadaran diri dan bahkan agama menempatkan manusia dalam kategori di luar primata standar.
+    </string>
+    <string name="info7">
+        Hamster kerdil adalah sekelompok beberapa subspesies, yang secara khusus berurusan dengan hamster yang panjangnya lebih kecil dari empat inci.
+        Mereka sering memiliki umur dua sampai tiga tahun, meskipun beberapa hidup kurang dari ini. Mereka sangat cerdas, dan beberapa subspesies
+        berhibernasi selama bulan-bulan musim dingin di bawah tanah. Jika Anda ingin meluangkan sedikit waktu ekstra dengan hewan peliharaan berbulu ini,
+        Anda bahkan dapat mempelajari cara melatih mereka untuk melakukan berbagai trik.
+    </string>
+    <string name="info8">
+        Disebut belut karena penampilannya yang panjang dan kurus, sebenarnya Fire Eel bukanlah belut sejati.
+        Padahal, ini adalah salah satu spesies ikan air tawar memanjang dengan moncong runcing yang dikenal sebagai belut berduri.
+        Ikan ini adalah hewan peliharaan akuarium yang populer karena warna dan ukurannya yang tidak biasa.
+        Ikan nokturnal yang tinggal di dasar laut ini memiliki umur yang panjang, baik di alam liar maupun sebagai hewan peliharaan.
+        Harga mereka sangat bervariasi tergantung pada ukurannya, dari kecil hingga jumbo, sehingga harganya hanya $ 20 atau memiliki
+        label harga setinggi beberapa ratus dolar. Meskipun mereka jarang menggigit, mereka bisa sedikit berbahaya karena duri dan racunnya,
+        dan cara mereka meronta-ronta saat ditangkap.
+    </string>
+    <string name="info9">
+        Kera Jepang adalah Monyet berukuran sedang yang ditemukan di berbagai habitat berbeda di seluruh Jepang.
+        Kera Jepang juga dikenal sebagai Monyet Salju karena mereka sering ditemukan tinggal di daerah yang lebih
+        dingin di negara tersebut di mana hujan salju lebat biasa terjadi selama musim dingin. Mereka adalah spesies
+        Monyet hidup paling utara di dunia dan telah beradaptasi secara luar biasa dengan lingkungan mereka dan perubahan musim.
+        Ada dua subspesies berbeda dari Kera Jepang, satu yang ditemukan di utara dan daratan Jepang, dan yang lainnya terbatas
+        pada salah satu pulau selatan negara itu. Keduanya sedikit berbeda dalam ukuran dan penampilan.
+    </string>
+    <string name="info10">
+        Harimau Siberia adalah salah satu predator paling ganas di dunia.
+        Dengan ukurannya yang besar dan tubuhnya yang kuat, harimau Siberia berkeliaran di hutan lebat Asia Timur untuk mencari mangsa.
+        Diadaptasi secara khusus untuk iklim dingin di mana ia tinggal, ia adalah predator canggih yang mampu mengalahkan hampir semua hewan lain,
+        tidak peduli ukurannya. Tetapi karena nilai yang diberikan pada bulunya yang mewah dan sifat obat yang diduga dari bagian-bagiannya,
+        hewan itu berada di bawah ancaman kepunahan yang konstan dari aktivitas manusia. Upaya konservasi yang cermat dan perlindungan dari
+        pemerintah daerah akan diperlukan untuk meningkatkan jumlah populasi saat ini.
+    </string>
+
+    <string name="info11">
+        Burung hantu gudang adalah anggota keluarga burung hantu yang paling terkenal yang dikenal karena wajah putih pucat dan panggilannya yang menghantui.
+        Mereka sangat tersebar luas, salah satu spesies burung paling tersebar luas di bumi.
+        Burung hantu menjaga populasi hewan pengerat di mana pun mereka tinggal dengan memangsa tikus dan mencit.
+        Dalam banyak budaya, mereka dipandang sebagai pertanda kematian atau melambangkan kehidupan setelah kematian.
+    </string>
+    <string name="info12">
+        Chamois adalah hewan kecil berkuku yang merupakan spesies kijang kambing.
+        Ini asli Asia Kecil dan pegunungan Eropa Timur, Tengah, dan Barat pada ketinggian yang cukup tinggi,
+        dan diperkenalkan ke Selandia Baru. Pengucapan namanya menyerupai bahasa Prancis,
+        sedangkan pengucapan namanya sebagai kulit didasarkan pada "chamy" atau "shammy".
+        Beberapa subspesies dari bovid ini dilindungi di bawah European Habitat Directive UE.
+    </string>
+    <string name="info13">
+        Belibis adalah burung kekar berukuran sedang yang hidup di belahan bumi utara.
+        Bulu mereka sangat mirip dengan habitatnya. Bulu ini memberi mereka kamuflase dan membantu mereka bertahan hidup.
+        Belibis adalah burung yang berkerabat dekat dengan ayam, kalkun, dan burung pegar.
+        Sekitar delapan juta burung buruan dataran tinggi ini diburu setiap tahun untuk makanan atau olahraga di habitat berumput dan hutan mereka.
+    </string>
+    <string name="info14">
+        Kumbang rusa adalah keluarga besar, bercangkang keras, serangga terbang yang ciri khasnya adalah kemampuan untuk memakan kayu yang membusuk sebagai larva.
+        Nama serangga ini berasal dari rahang raksasa pada jantan, yang menyerupai rusa jantan dalam cara mereka melengkung dan bercabang.
+        Jumlah mereka tampaknya menurun di beberapa bagian dari jangkauan mereka karena hilangnya habitat dan sumber makanan.
+    </string>
+    <string name="info15">
+        Laba-laba Woodlouse ditemukan di seluruh dunia.
+        Mereka tinggal di Australia, Asia, Eropa, Amerika Utara, Amerika Selatan, dan Afrika.
+        Laba-laba ini diberi nama untuk kutu kayu yang diburunya di habitatnya. Laba-laba ini tidak membuat jaring.
+        Sebaliknya, mereka menangkap mangsa dengan taring mereka, kemudian memberikan dosis racun. Umur laba-laba ini adalah dua hingga lima tahun.
+    </string>
+    <string name="info16">
+        Alaskan Husky adalah anjing pekerja atletik yang muncul dari persilangan antara beberapa ras yang serupa namun berbeda.
+        Secara genetik, ini adalah kerabat dekat Alaskan Malamute dan Siberian Husky. Itu kemudian disilangkan dengan beberapa
+        Breed Eropa, termasuk pointer Jerman dan Saluki. Beberapa dari hewan ini bahkan memiliki beberapa warisan serigala baru-baru ini.
+        Mampu bertahan dalam iklim yang keras di utara yang dingin, Alaskan Huskies adalah anjing kereta luncur yang sangat baik dan teman yang
+        termasuk dalam kelompok spitz. Anjing spitz dicirikan oleh bulu putih tebal, telinga runcing, moncong panjang, dan keriting
+        ekor. Namun, karena tidak ada standar breed yang ditetapkan, Alaskan Husky dapat datang dalam banyak permutasi fisik yang berbeda
+        dan karakteristik. Mereka dibiakkan untuk kecepatan dan daya tahan, bukan untuk penampilan. Akibatnya, mereka perlu memiliki gaya berjalan yang efisien,
+        mantel ganda yang hangat, dan kaki berselaput yang berfungsi sebagai sepatu salju. Itu juga ditutupi dengan beberapa campuran bulu putih, hitam, abu-abu, coklat, dan bahkan merah.
+    </string>
+    <string name="info17">
+        Sebuah simbol menawan kekuatan dan kekuasaan, elang botak adalah salah satu hewan paling populer di seluruh Amerika Utara.
+        Ia membubung dengan anggun di udara, memikat para pengamat dan penggemar burung. Meskipun pernah berada di ambang kepunahan,
+        hari ini telah cukup pulih untuk mewakili kisah sukses konservasi yang menakjubkan.
+    </string>
+    <string name="info18">
+        Dari semua kutu asli Amerika Utara, kutu rusa adalah salah satu yang paling bermasalah.
+        Kutu telah ada sejak lama, lebih dari 100 juta tahun. Saat ini, ada lebih dari 900
+        spesies kutu yang berbeda yang hidup di setiap benua (bahkan Antartika).
+        Sekitar 700 spesies adalah kutu \'bertubuh keras\' dari keluarga Ixodidae.
+        Kutu rusa adalah salah satu spesies bertubuh keras ini.
+        Kutu rusa mampu menelan begitu banyak darah sehingga mereka membesar hingga enam kali ukuran normalnya.
+        Ketika mereka menempel pada korban, mereka benar-benar mengeluarkan zat anestesi yang mematikan
+        rasa sakit yang ditimbulkan oleh gigitan. Seperti vampir, kutu hanya hidup dari darah. Namun,
+        tidak seperti Dracula—mereka tidak membunuh korbannya, meskipun mereka dapat menularkan penyakit yang ditularkan melalui darah kepada mereka.
+    </string>
+    <string name="info19">
+        Anjing laut biarawan Hawaii, yang disebut Ilioholoikauaua oleh penduduk asli pulau,
+        sebagian besar hidup di sekitar Kepulauan Hawaii Barat Laut. Ini adalah mamalia resmi negara
+        bagian Hawaii dan hanya satu dari dua mamalia asli negara bagian AS ini. Seperti anjing laut lainnya,
+        mereka adalah pemakan daging yang berburu di perairan laut. Mereka tidur di pantai di mana mereka juga
+        menikmati berjemur di bawah sinar matahari. Pada 2016, hanya ada sekitar 1400 anjing laut asli yang tersisa.
+    </string>
+    <string name="info20">
+        Pelatuk biasa terbesar di Amerika Utara, pelatuk bertumpuk adalah burung yang mudah dikenali berkat
+        jambul merah khas di atas kepala mereka. Ditemukan terutama di Kanada bagian selatan, Amerika Serikat bagian timur,
+        Pegunungan Rocky utara, dan bagian dari Pantai Pasifik, pelatuk bertumpuk adalah burung monogami yang tidak bermigrasi.
+        Mereka lebih suka menghuni hutan tua dengan banyak pohon mati yang berdiri, dan mereka terkenal karena meninggalkan
+        lubang persegi panjang di pohon saat mencari makanan favorit mereka – semut tukang kayu. Burung-burung ini tidak
+        terancam punah dan jumlah populasinya terus meningkat.
+    </string>
+</resources>

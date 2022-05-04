@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home_title" />
+        <item
+            android:id="@+id/nav_animals"
+            android:title="@string/animals_title"/>
+        <item
+            android:id="@+id/nav_african"
+            android:title="@string/african_title" />
+        <item
+            android:id="@+id/nav_asian"
+            android:title="@string/asian_title" />
+        <item
+            android:id="@+id/nav_european"
+            android:title="@string/european_title" />
+        <item
+            android:id="@+id/nav_northamerica"
+            android:title="@string/north_american_title" />
+    </group>
+</menu>

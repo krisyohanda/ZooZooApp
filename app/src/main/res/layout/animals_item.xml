@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:elevation="8dp"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:orientation="vertical"
+        android:padding="4dp">
+
+
+        <ImageView
+            android:id="@+id/imageAnimal"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_marginBottom="8dp"
+            android:padding="8dp"
+            android:src="@drawable/zoozooapp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/nameAnimal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.MaterialComponents.Headline6"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:textSize="32sp"
+            android:padding="16dp"
+            android:text="Nama: " />
+
+        <TextView
+            android:id="@+id/infoAnimal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            style="@style/TextAppearance.MaterialComponents.Body2"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:text="@string/detail_more_label" />
+
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
